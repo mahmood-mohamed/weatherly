@@ -83,7 +83,7 @@
 }
 
 .dark {
-  --background: oklch(0.145 0 0);
+  --background: rgb(10, 10, 10);
   --foreground: oklch(0.985 0 0);
   --card: oklch(0.205 0 0);
   --card-foreground: oklch(0.985 0 0);
@@ -127,3 +127,14 @@
     @apply font-sans;
   }
 }
+
+
+.hourly-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.hourly-scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+

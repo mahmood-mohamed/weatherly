@@ -1,0 +1,112 @@
+{
+  "Navbar": {
+    "searchPlaceholder": "Search for a city...",
+    "noResults": "No results found for your search."
+  },
+  "Navigation": {
+    "home": "Home",
+    "settings": "Settings",
+    "history": "History"
+  },
+  "Sidebar": {
+    "title": "Weather Insights",
+    "accuracy": "Forecast Accuracy: 95.5%",
+    "forecast": "Real-time Weather Forecast",
+    "global": "Global Weather Data",
+    "poweredBy": "Data by"
+  },
+  "Weather": {
+    "current": "Current Weather",
+    "forecast": "Forecast",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "feelsLike": "Feels like",
+    "loading": "Loading weather data...",
+    "errorText": "Error fetching weather data",
+    "noResults": "No results found for your search.",
+    "high": "High",
+    "low": "Low"
+  },
+  "CurrentDetailsGrid": {
+    "title": "Current Details",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "pressure": "Pressure",
+    "uvInfo": "UV Index"
+  },
+  "HourlyForecast": {
+    "now": "Now",
+    "title": "Hourly Forecast",
+    "pm": "PM",
+    "am": "AM",
+    "chanceOfRain": "Chance of rain"
+  },
+  "DailyForecast": {
+    "title": "3-Day Forecast",
+    "today": "Today"
+  },
+  "Astronomy": {
+    "title": "Astronomy",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "moonrise": "Moonrise",
+    "moonset": "Moonset",
+    "moonPhase": "Moon Phase",
+    "illumination": "Illumination"
+  },
+  "Settings": {
+    "title": "Settings",
+    "language": "Language",
+    "english": "English",
+    "arabic": "Arabic",
+    "theme": "Theme",
+    "light": "Light Mode",
+    "dark": "Dark Mode",
+    "system": "System",
+    "units": "Temperature Unit",
+    "celsius": "Celsius (°C)",
+    "fahrenheit": "Fahrenheit (°F)",
+    "windUnit": "Wind Unit",
+    "kph": "Kilometers per hour (kph)",
+    "mph": "Miles per hour (mph)",
+    "pressureUnit": "Pressure Unit",
+    "mb": "Millibars (mb)",
+    "inHg": "Inches of Mercury (inHg)",
+    "visibilityUnit": "Visibility Unit",
+    "km": "Kilometers (km)",
+    "miles": "Miles (mi)",
+    "precipitationUnit": "Precipitation Unit",
+    "mm": "Millimeters (mm)",
+    "in": "Inches (in)",
+    "timeFormat": "Time Format",
+    "12h": "12-hour (AM/PM)",
+    "24h": "24-hour",
+    "resetDefaults": "Reset to Defaults"
+  },
+  "History": {
+    "title": "Weather History",
+    "subtitle": "Select a day to view weather details",
+    "selectDay": "Select a Day",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "daysAgo": "days ago",
+    "date": "Date",
+    "maxTemp": "Max Temp",
+    "minTemp": "Min Temp",
+    "avgTemp": "Avg Temp",
+    "condition": "Condition",
+    "noHistory": "No history data available for this location.",
+    "details": "Details",
+    "hourlyData": "Hourly Data"
+  },
+  "Footer": {
+    "rights": "All rights reserved.",
+    "craftedBy": "Crafted by",
+    "authorName": "Mahmoud Mohamed"
+  },
+  "NotFound": {
+    "title": "404 Not Found Error",
+    "description": "The page you are looking for doesn't exist or has been moved.",
+    "returnHome": "Return to Home"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "Navbar": {
+    "searchPlaceholder": "ابحث عن مدينة...",
+    "noResults": "لم يتم العثور على نتائج لبحثك."
+  },
+  "Navigation": {
+    "home": "الرئيسية",
+    "settings": "الإعدادات",
+    "history": "السجل"
+  },
+  "Sidebar": {
+    "title": "تنبؤات الطقس",
+    "accuracy": "دقة 95.5%",
+    "forecast": "تنبؤات الطقس الحالية",
+    "global": "بيانات الطقس العالمية",
+    "poweredBy": "البيانات بواسطة"
+  },
+  "Weather": {
+    "current": "الطقس الحالي",
+    "forecast": "التوقعات",
+    "sunrise": "الشروق",
+    "sunset": "الغروب",
+    "feelsLike": "الإحساس الفعلي",
+    "loading": "جاري تحميل بيانات الطقس...",
+    "errorText": "خطأ في جلب بيانات الطقس",
+    "noResults": "لم يتم العثور على نتائج لبحثك.",
+    "high": "الأعلى",
+    "low": "الأدنى"
+  },
+  "CurrentDetailsGrid": {
+    "title": "تفاصيل الطقس الحالية",
+    "humidity": "الرطوبة",
+    "wind": "الرياح",
+    "pressure": "الضغط",
+    "uvInfo": "مؤشر الأشعة فوق البنفسجية"
+  },
+  "HourlyForecast": {
+    "now": "الآن",
+    "title": "توقعات 24 ساعة",
+    "pm": "م",
+    "am": "ص",
+    "chanceOfRain": "فرصة هطول الأمطار"
+  },
+  "DailyForecast": {
+    "title": "توقعات 3 أيام",
+    "today": "اليوم"
+  },
+  "Astronomy": {
+    "title": "علم الفلك",
+    "sunrise": "شروق الشمس",
+    "sunset": "غروب الشمس",
+    "moonrise": "شروق القمر",
+    "moonset": "غروب القمر",
+    "moonPhase": "طور القمر",
+    "illumination": "الإضاءة"
+  },
+  "Settings": {
+    "title": "الإعدادات",
+    "language": "اللغة",
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "theme": "المظهر",
+    "light": "الوضع الفاتح",
+    "dark": "الوضع المظلم",
+    "system": "مظهر النظام",
+    "units": "وحدة الحرارة",
+    "celsius": "مئوية (°C)",
+    "fahrenheit": "فهرنهايت (°F)",
+    "windUnit": "وحدة الرياح",
+    "kph": "كيلومتر في الساعة (kph)",
+    "mph": "ميل في الساعة (mph)",
+    "pressureUnit": "وحدة الضغط",
+    "mb": "ميليبار (mb)",
+    "inHg": "بوصة زئبقية (inHg)",
+    "visibilityUnit": "وحدة الرؤية",
+    "km": "كيلومتر (km)",
+    "miles": "أميال (mi)",
+    "precipitationUnit": "وحدة هطول الأمطار",
+    "mm": "ملليمتر (mm)",
+    "in": "بوصة (in)",
+    "timeFormat": "تنسيق الوقت",
+    "12h": "12 ساعة (ص/م)",
+    "24h": "24 ساعة",
+    "resetDefaults": "إعادة تعيين للافتراضي"
+  },
+  "History": {
+    "title": "سجل الطقس",
+    "subtitle": "اختر يومًا لعرض تفاصيل الطقس",
+    "selectDay": "اختر يومًا",
+    "today": "اليوم",
+    "yesterday": "أمس",
+    "daysAgo": "أيام مضت",
+    "date": "التاريخ",
+    "maxTemp": "الحرارة القصوى",
+    "minTemp": "الحرارة الصغرى",
+    "avgTemp": "متوسط الحرارة",
+    "condition": "الحالة",
+    "noHistory": "لا توجد بيانات سجل متاحة لهذا الموقع.",
+    "details": "التفاصيل",
+    "hourlyData": "بيانات الساعة"
+  },
+  "Footer": {
+    "rights": "جميع الحقوق محفوظة.",
+    "craftedBy": "صُنع بواسطة",
+    "authorName": "محمود محمد"
+  },
+  "NotFound": {
+    "title": "عذراً! الصفحة غير موجودة",
+    "description": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+    "returnHome": "العودة إلى الرئيسية"
+  }
+}
